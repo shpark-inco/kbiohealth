@@ -1,0 +1,9 @@
+{
+  "name": "Python Codespace",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "features": {
+    "ghcr.io/devcontainers/features/jupyter:1": {}
+  },
+  "postCreateCommand": "pip install jupyter"
+}
+
