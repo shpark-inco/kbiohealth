@@ -6,4 +6,3 @@
   },
   "postCreateCommand": "pip install jupyter"
 }
-
